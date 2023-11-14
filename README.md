@@ -1,1 +1,1 @@
-# stock-market_real-time_aws
+# Real-time Stock Market Analysis
